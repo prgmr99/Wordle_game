@@ -1,0 +1,37 @@
+.header-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  border-bottom: 1px solid #d3d6d3;
+  width: 100vw;
+}
+
+.header-info__img-part1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: auto;
+  width: 50px;
+}
+
+.header-info__img-part2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.header-info__title {
+  display: flex;
+  justify-content: center;
+  margin-left: 7vw;
+}
+
+.header-info__img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50px;
+}
